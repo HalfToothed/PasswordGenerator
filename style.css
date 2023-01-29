@@ -1,0 +1,65 @@
+body{
+    margin:0%;
+    padding: 0%;
+    font-family:monospace;
+}
+
+h1,p{
+    margin: 0%;
+    padding: 0%;
+    color: white;
+    
+}
+
+p{
+    margin-top: 10px;
+}
+
+.container{
+    border-radius: 30px;
+    border: 5px solid #dddddd;
+    height: 400px;
+    width: 500px;
+    background: #1d1d3d;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px; 
+
+}
+
+.content{
+    padding:60px 40px; 
+}
+
+.password{
+    color:rgb(10, 206, 131);
+}
+
+button{
+    background:rgb(10, 206, 131);
+    color: #fff;
+    border: none;
+    width:150px;
+    height: 30px;
+    border-radius: 10px;
+    font-weight: bold;
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+
+.random{
+    background:#1d1d31;
+    color: rgb(10, 206, 131);
+    border: none; 
+    width:150px;
+    height: 20px;
+    border-radius: 10px;
+    font-weight: bold;
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 6px;
+}
+
+.line{
+    border-top: 0.01px solid #3d3d6d;
+}
